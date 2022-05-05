@@ -14,7 +14,7 @@
 - Vous ne pouvez modifier votre mot de passe.
 
 ## Fonctionnement technique
-![schéma fonctionnel](./assets/images/scheme.png)
+![schéma fonctionnel](./assets/scheme.png)
 
 ## Technologies utilisées
 L’application fonctionne sur le système d’exploitation Android.
