@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#eeeeee"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,10 +20,16 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "adaptiveIcon": {
+            "foregroundImage": "./assets/adaptive-icon.png",
+            "backgroundColor": "#eeeeee"
+        },
+        "package": "com.lekip_vb.VenceBer",
+        "config": {
+            "googleMaps": {
+                "apiKey": "AIzaSyDqVpA3FPH4W7KvSv72q709N7gDo1dUHm0"
+            }
+        }
     },
     "web": {
       "favicon": "./assets/favicon.png"
