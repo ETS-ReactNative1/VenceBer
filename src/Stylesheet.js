@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     },
     map: {
         width: (Dimensions.get('window').width / 100) * 80,
-        height: 200,
+        height: (Dimensions.get('window').height / 100) * 30,
         margin: 10
     },
     mapVariant: {

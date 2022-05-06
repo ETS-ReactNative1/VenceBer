@@ -52,8 +52,6 @@ export default function Home({ navigation }) {
             <TouchableOpacity style={[styles.button, styles.variant2]} onPress={() => navigation.navigate("Rides List")}>
                 <Text style={styles.buttonText}>Passager</Text>
             </TouchableOpacity>
-
-
         </View>
     );
 }

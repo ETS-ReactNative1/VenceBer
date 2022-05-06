@@ -77,7 +77,7 @@ export default function RideForm({ navigation }) {
                     autoCorrect={false}
                     autoCapitalize='none'
                     onChangeText={setArrivingTime}
-                    placeholder="Heure de départ (hh:mm)"
+                    placeholder="Heure d'arrivée (hh:mm)"
                     value={arrivingTime}
                 />
 

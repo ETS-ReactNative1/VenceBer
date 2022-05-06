@@ -21,7 +21,7 @@ export default function Welcome({ navigation }) {
             </TouchableOpacity>
 
             <Text style={{ color: 'black', paddingTop: 20, color: "orange" }}
-                onPress={() => Linking.openURL('https://discord.gg/RuJPxVnsDG')}>
+                onPress={() => Linking.openURL('https://discord.gg/v2n7JgdBUV')}>
                 Nous contacter
             </Text>
 
